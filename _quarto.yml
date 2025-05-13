@@ -28,30 +28,10 @@ website:
         text: " "
       - href: about/index.qmd
         text: "About"
-      - href: posts/index.qmd
-        text: "Posts"
-      - text: "Research"
-        menu:
-        - href: research/highlights/index.qmd
-          text: "Highlights"
-        - href: research/citations/index.qmd
-          text: "All citations"
-      - href: software/index.qmd
-        text: "Software"
-      - href: books/index.qmd
-        text: "Books"
-      - href: gallery/index.qmd
-        text: "Gallery"
-      - href: https://www.ala.org.au
-        icon: ala
-      - href: https://github.com/AtlasOfLivingAustralia/ala-labs
+      - href: research/citations/index.qmd
+        text: "Research"
+      - href: https://github.com/MCBLab
         icon: github
-  announcement:
-    icon: info-circle
-    dismissable: true
-    content: "Check out the new *Cleaning Biodiversity Data in R* book! [Click here to find out more](https://labs.ala.org.au/books/)."
-    type: light
-    position: below-navbar
 
 format:
   html:
