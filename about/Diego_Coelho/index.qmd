@@ -1,0 +1,50 @@
+---
+title: "Diego Coelho"
+---
+
+```{r, include=FALSE}
+library(htmltools)
+library(here)
+source(here("R", "functions.R"))
+```
+
+### {{< fa circle-user >}} Bio 
+
+:::{.bio-row}
+:::{.bio-column-right}
+
+```{r out.width='275px', out.extra='style="display:block; margin-left:auto; margin-right:auto; clip-path: circle();"'}
+#| echo: false
+knitr::include_graphics("../images/logos/diego_image.png")
+```
+:::
+
+:::{.bio-column-left}
+Holds a degree in Biological Sciences from the State University of Rio de Janeiro (2013), a master's degree in Biological Sciences (Biophysics) from the Federal University of Rio de Janeiro (2016), and a Ph.D. in Bioinformatics from the Federal University of Rio Grande do Norte (2018 and 2021). His most recent academic work focused on the use of scRNAseq and RNAseq data to address questions related to developmental neurobiology and the neuropathology of Alzheimer’s disease. He has worked for Mendelics S/A as a bioinformatics analyst and at EMBL-EBI as a bioinformatics developer. Currently, he works at Ryvu Therapeutics and collaborates with researchers and biotechnology companies.
+
+:::
+:::
+
+:::{.column-body style="margin-top:-20px;"}
+```{r}
+#| echo: false
+
+tags$div(class = "row", style = "display: flex;",
+         
+create_button(
+  icon = "fab fa-github fa-xl",
+  url = "https://github.com/diegomscoelho"
+),
+create_button(
+  icon = "fas fa-globe fa-xl",
+  url = "http://lattes.cnpq.br/2074007934768692"
+),
+create_button(
+  icon = "fab fa-linkedin-in fa-xl",
+  url = "https://www.linkedin.com/in/diegomscoelho/"
+)
+)
+```
+:::
+
+

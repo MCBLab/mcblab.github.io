@@ -21,7 +21,7 @@ website:
     foreground: "#FFFFFF"
     title: ""
     search: true
-    logo: images/logos/ALA_Logo_Inline_REV-RGB.png
+    logo: images/logos/lab_logo.png
     right:
       - href: index.qmd
         icon: house-door-fill
@@ -43,8 +43,6 @@ format:
     code-overflow: scroll
     linkcolor: "#B8573E"
     include-before-body: _fathom.html
-
-freeze: true
 
 
 

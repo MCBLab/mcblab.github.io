@@ -1,10 +1,10 @@
 ---
 title: "About"
-subtitle: Role and membership of the ALA Science & Decision Support Team
+subtitle: Role and membership of the MCB Lab Team
 format: 
   html: 
     include-after-body: _footer.html
-title-block-banner: "#E06E53"
+title-block-banner: "#fcbd27"
 title-block-banner-color: body
 ---
 
@@ -23,10 +23,8 @@ source("../R/functions.R")
 ### We are responsible for:  
 
 - Data analysis & reporting on key projects
-- R package development & maintenance
+- Nextflow pipeline development & maintenance
 - Outreach & engagement with the research community
-
-
 
 # Meet the team
 
@@ -36,9 +34,9 @@ source("../R/functions.R")
 tags$div(class = "row",# Create a row for 3 team-member cards
          
 create_team_card(
-  person_page = "Westgate_Martin/index.html",
-  img_src = "../images/people/martin.jpg",
-  name = "Martin Westgate",
+  person_page = "Diego_Coelho/index.html",
+  img_src = "images/logos/diego_image.png",
+  name = "Diego M. Coelho",
   text = "Team Leader"
 )
 )

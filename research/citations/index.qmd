@@ -1,7 +1,7 @@
 ---
 title: "Citations"
 subtitle: "Papers that mention or cite the ALA"
-title-block-banner: "#E06E53"
+title-block-banner: "#fcbd27"
 title-block-banner-color: body
 toc: false
 format: 
