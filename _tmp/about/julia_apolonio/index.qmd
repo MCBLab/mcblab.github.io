@@ -1,0 +1,50 @@
+---
+title: "Julia Apolonio de Amorim"
+---
+
+```{r, include=FALSE}
+library(htmltools)
+library(here)
+source(here("_tmp/R", "functions.R"))
+```
+
+### {{< fa circle-user >}} Bio 
+
+:::{.bio-row}
+:::{.bio-column-right}
+
+```{r out.width='275px', out.extra='style="display:block; margin-left:auto; margin-right:auto; clip-path: circle();"'}
+#| echo: false
+knitr::include_graphics("https://avatars.githubusercontent.com/u/19909582?v=4")
+```
+:::
+
+:::{.bio-column-left}
+Has a degree in Biomedical Engineering from the Federal University of Rio Grande do Norte (2021). Currently pursuing a master's degree in Bioinformatics at the Federal University of Rio Grande do Norte, working on projects involving psychiatric disorders, GWAS, multi-omics analysis, and pipeline development.
+
+:::
+:::
+
+:::{.column-body style="margin-top:-20px;"}
+```{r}
+#| echo: false
+
+tags$div(class = "row", style = "display: flex;",
+         
+create_button(
+  icon = "fab fa-github fa-xl",
+  url = "https://github.com/juliaapolonio"
+),
+create_button(
+  icon = "fas fa-globe fa-xl",
+  url = "http://lattes.cnpq.br/0708127738630783"
+),
+create_button(
+  icon = "fab fa-linkedin-in fa-xl",
+  url = "https://www.linkedin.com/in/juliaapolonio/"
+)
+)
+```
+:::
+
+

@@ -1,0 +1,30 @@
+---
+toc: false
+format: 
+  html: 
+    include-in-header: hero-image.html
+    include-after-body: _footer.html
+    sidebar: false
+    anchor-sections: false
+    css: [theme.css, index.css]
+---
+
+```{r}
+#| include: false
+# To change the hero-image:
+
+# open theme.css
+# find the .hero-image section
+```
+
+```{r}
+#| include: false
+library(htmltools)
+source("R/functions.R")
+```
+
+# Welcome to Marques-Coelho Bioinformatics Lab
+
+Welcome to the official resource hub for coding projects at MCB Labs. Here, you will find comprehensive access to our lectures, research projects, development proposals, scientific publications, and a variety of other materials related to our ongoing work. Whether you're a student, collaborator, or visitor, this site is designed to support exploration, collaboration, and innovation in the field of molecular and computational biology.
+
+<br>

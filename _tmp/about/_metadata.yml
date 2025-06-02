@@ -1,0 +1,4 @@
+format:
+  html:
+    include-after-body: _footer.html
+    embed-resources: true

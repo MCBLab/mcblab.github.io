@@ -1,0 +1,19 @@
+// use litera as the base
+$theme: "lumen" !default;
+
+// fonts
+$font-family-sans-serif: "Roboto", Roboto, serif;
+$font-family-monospace: "Fira Mono", Fira;
+
+// colours
+// $body-bg: #FFFBF7;
+$link-color: #fcbd27;
+$navbar-hl: #fcbd27;
+
+.h4 {
+  font-size: 1.11rem !important;
+}
+
+h4 {
+  font-size: 1.11rem !important;
+}
