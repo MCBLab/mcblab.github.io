@@ -1,0 +1,51 @@
+---
+title: "Gleison Medeiros"
+---
+
+```{r, include=FALSE}
+library(htmltools)
+library(here)
+source(here("_tmp/R", "functions.R"))
+```
+
+### {{< fa circle-user >}} Bio 
+
+:::{.bio-row}
+:::{.bio-column-right}
+
+```{r out.width='275px', out.extra='style="display:block; margin-left:auto; margin-right:auto; clip-path: circle();"'}
+#| echo: false
+knitr::include_graphics("https://avatars.githubusercontent.com/u/71445184?v=4")
+```
+:::
+
+:::{.bio-column-left}
+Masters student in Bioinformatics at the Federal University of Rio Grande do Norte (UFRN) and a graduate in Biomedicine from the same institution. My academic journey is focused on omics data analysis, with an emphasis on Single Cell, RNA-seq, Metagenomics, and the Evolution of Biological Systems. Since 2021, I have been part of the BioME team, where I apply computational approaches to investigate evolutionary patterns and protein interaction networks, contributing to a deeper understanding of molecular complexity and large-scale biological mechanisms.
+
+:::
+:::
+
+:::{.column-body style="margin-top:-20px;"}
+```{r}
+#| echo: false
+
+tags$div(class = "row", style = "display: flex;",
+         
+create_button(
+  icon = "fab fa-github fa-xl",
+  url = "https://github.com/gleisonm"
+),
+create_button(
+  icon = "fas fa-globe fa-xl",
+  url = "http://lattes.cnpq.br/3943323611794371"
+
+),
+create_button(
+  icon = "fab fa-linkedin-in fa-xl",
+  url = "https://www.linkedin.com/in/gleison-azevedo-504380353/"
+)
+)
+```
+:::
+
+

@@ -1,10 +1,38 @@
 [
   {
-    "objectID": "about/julia_apolonio/index.html",
-    "href": "about/julia_apolonio/index.html",
-    "title": "Julia Apolonio de Amorim",
+    "objectID": "about/laura_shimohara/index.html",
+    "href": "about/laura_shimohara/index.html",
+    "title": "Laura Shimohara",
     "section": "",
-    "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nHas a degree in Biomedical Engineering from the Federal University of Rio Grande do Norte (2021). Currently pursuing a master’s degree in Bioinformatics at the Federal University of Rio Grande do Norte, working on projects involving psychiatric disorders, GWAS, multi-omics analysis, and pipeline development."
+    "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nBachelor in Biotechnology from the Federal University of Paraíba (2023), currently a master’s student in the graduate program in Bioinformatics at UFRN (PPG-Bioinfo). Has experience in the fields of Bioinformatics and Transcriptomics, with an emphasis on preprocessing of long-read sequencing data and in silico analysis of long non-coding RNAs."
+  },
+  {
+    "objectID": "about/joao_cav/index.html",
+    "href": "about/joao_cav/index.html",
+    "title": "João Cavalcante",
+    "section": "",
+    "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nHolds a Bachelor’s degree in Biomedicine (2022) and a Master’s degree in Bioinformatics (2024), both from the Federal University of Rio Grande do Norte (UFRN). Currently, he is a PhD student in Bioinformatics at the Multiuser Bioinformatics Center of the Digital Metropolis Institute (BioME/IMD/UFRN). During his Master’s, he worked with metagenomic (shotgun, 16S) and transcriptomic (scRNA-seq, RNA-seq, and microarray) data analysis. He has experience in sequencing data analysis, focusing on differential gene expression and protein-protein interaction networks in transcriptomics, as well as biodiversity and functional analyses in metagenomics. He is proficient in R and Python, with recent projects available on his GitHub profile: https://github.com/jvfe. Additionally, he develops and maintains bioinformatics workflows using tools such as Nextflow and Snakemake. His main interests include Systems Biology, Metagenomics, Network Analysis, Computational Reproducibility, and Open Knowledge. He participated in the Google Summer of Code 2021 as a Student Developer for the R Project for Statistical Computing, working on social network data analysis and the development of interactive dashboards."
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "Data analysis & reporting on key projects\nNextflow pipeline development & maintenance\nOutreach & engagement with the research community"
+  },
+  {
+    "objectID": "about/index.html#lab-members",
+    "href": "about/index.html#lab-members",
+    "title": "About",
+    "section": "Lab members",
+    "text": "Lab members\nClick on photos to view their articles and contributions\n\n\n\n\n\n\n\n\n\n\nDiego M. Coelho\n\nTeam Leader\n\n\n\n\n\n\n\n\n\n\nIsaac Medeiros\n\nUndergraduate"
+  },
+  {
+    "objectID": "about/index.html#external-collaborators",
+    "href": "about/index.html#external-collaborators",
+    "title": "About",
+    "section": "External collaborators",
+    "text": "External collaborators\nClick on photos to view their articles and contributions\n\n\n\n\n\n\n\n\n\n\nJulia Apolonio\n\nMsc candidate\n\n\n\n\n\n\n\n\n\n\nJoão Cavalcante\n\nPhD candidate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGleison Medeiros\n\nMsc candidate\n\n\n\n\n\n\n\n\n\n\nLaura Shimohara\n\nMsc candidate"
   },
   {
     "objectID": "about/diego_coelho/index.html",
@@ -14,11 +42,25 @@
     "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nHolds a degree in Biological Sciences from the State University of Rio de Janeiro (2013), a master’s degree in Biological Sciences (Biophysics) from the Federal University of Rio de Janeiro (2016), and a Ph.D. in Bioinformatics from the Federal University of Rio Grande do Norte (2018 and 2021). His most recent academic work focused on the use of scRNAseq and RNAseq data to address questions related to developmental neurobiology and the neuropathology of Alzheimer’s disease. He has worked for Mendelics S/A as a bioinformatics analyst and at EMBL-EBI as a bioinformatics developer. Currently, he works at Ryvu Therapeutics and collaborates with researchers and biotechnology companies."
   },
   {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About",
+    "objectID": "about/gleison_medeiros/index.html",
+    "href": "about/gleison_medeiros/index.html",
+    "title": "Gleison Medeiros",
     "section": "",
-    "text": "We are responsible for:\n\nData analysis & reporting on key projects\nNextflow pipeline development & maintenance\nOutreach & engagement with the research community\n\n\n\nMeet the team\nClick on photos to view their articles and contributions\n\n\n\n\n\n\n\n\n\n\nDiego M. Coelho\n\nTeam Leader\n\n\n\n\n\n\n\n\n\n\nJulia Apolonio\n\nCollaborator\nMsc candidate"
+    "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters student in Bioinformatics at the Federal University of Rio Grande do Norte (UFRN) and a graduate in Biomedicine from the same institution. My academic journey is focused on omics data analysis, with an emphasis on Single Cell, RNA-seq, Metagenomics, and the Evolution of Biological Systems. Since 2021, I have been part of the BioME team, where I apply computational approaches to investigate evolutionary patterns and protein interaction networks, contributing to a deeper understanding of molecular complexity and large-scale biological mechanisms."
+  },
+  {
+    "objectID": "about/isaac_medeiros/index.html",
+    "href": "about/isaac_medeiros/index.html",
+    "title": "Isaac Medeiros",
+    "section": "",
+    "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate student in Information Technology, with a degree in Ecology from the Federal University of Rio Grande do Norte. I aim to develop skills with an emphasis on Software Engineering, focusing on creating technological tools that help mitigate societal challenges. In this way, I incorporate the practices and experiences from my Bachelor’s in Ecology to convey a message with a social and environmental perspective."
+  },
+  {
+    "objectID": "about/julia_apolonio/index.html",
+    "href": "about/julia_apolonio/index.html",
+    "title": "Julia Apolonio de Amorim",
+    "section": "",
+    "text": "Bio\n\n\n\n\n\n\n\n\n\n\n\n\n\nHas a degree in Biomedical Engineering from the Federal University of Rio Grande do Norte (2021). Currently pursuing a master’s degree in Bioinformatics at the Federal University of Rio Grande do Norte, working on projects involving psychiatric disorders, GWAS, multi-omics analysis, and pipeline development."
   },
   {
     "objectID": "index.html",

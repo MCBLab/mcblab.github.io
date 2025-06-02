@@ -1,0 +1,46 @@
+---
+title: "Isaac Medeiros"
+---
+
+```{r, include=FALSE}
+library(htmltools)
+library(here)
+source(here("_tmp/R", "functions.R"))
+```
+
+### {{< fa circle-user >}} Bio 
+
+:::{.bio-row}
+:::{.bio-column-right}
+
+```{r out.width='275px', out.extra='style="display:block; margin-left:auto; margin-right:auto; clip-path: circle();"'}
+#| echo: false
+knitr::include_graphics("https://avatars.githubusercontent.com/u/127994907?v=4")
+```
+:::
+
+:::{.bio-column-left}
+Undergraduate student in Information Technology, with a degree in Ecology from the Federal University of Rio Grande do Norte. I aim to develop skills with an emphasis on Software Engineering, focusing on creating technological tools that help mitigate societal challenges. In this way, I incorporate the practices and experiences from my Bachelor's in Ecology to convey a message with a social and environmental perspective.
+
+:::
+:::
+
+:::{.column-body style="margin-top:-20px;"}
+```{r}
+#| echo: false
+
+tags$div(class = "row", style = "display: flex;",
+         
+create_button(
+  icon = "fab fa-github fa-xl",
+  url = "https://github.com/MedeirosIsaac"
+),
+create_button(
+  icon = "fas fa-globe fa-xl",
+  url = "http://lattes.cnpq.br/8138760654810810/"
+)
+)
+```
+:::
+
+

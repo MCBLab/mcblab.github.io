@@ -1,0 +1,48 @@
+---
+title: "Laura Shimohara"
+---
+
+```{r, include=FALSE}
+library(htmltools)
+library(here)
+source(here("_tmp/R", "functions.R"))
+```
+
+### {{< fa circle-user >}} Bio 
+
+:::{.bio-row}
+:::{.bio-column-right}
+
+```{r out.width='275px', out.extra='style="display:block; margin-left:auto; margin-right:auto; clip-path: circle();"'}
+#| echo: false
+knitr::include_graphics("https://avatars.githubusercontent.com/u/157064283?v=4")
+```
+:::
+
+:::{.bio-column-left}
+Bachelor in Biotechnology from the Federal University of Paraíba (2023), currently a master's student in the graduate program in Bioinformatics at UFRN (PPG-Bioinfo). Has experience in the fields of Bioinformatics and Transcriptomics, with an emphasis on preprocessing of long-read sequencing data and *in silico* analysis of long non-coding RNAs.
+
+
+:::
+:::
+
+:::{.column-body style="margin-top:-20px;"}
+```{r}
+#| echo: false
+
+tags$div(class = "row", style = "display: flex;",
+         
+create_button(
+  icon = "fab fa-github fa-xl",
+  url = "https://github.com/aylahin"
+),
+create_button(
+  icon = "fas fa-globe fa-xl",
+  url = "http://lattes.cnpq.br/5307797438965920"
+
+)
+)
+```
+:::
+
+

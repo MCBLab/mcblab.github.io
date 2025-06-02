@@ -1,0 +1,51 @@
+---
+title: "João Cavalcante"
+---
+
+```{r, include=FALSE}
+library(htmltools)
+library(here)
+source(here("_tmp/R", "functions.R"))
+```
+
+### {{< fa circle-user >}} Bio 
+
+:::{.bio-row}
+:::{.bio-column-right}
+
+```{r out.width='275px', out.extra='style="display:block; margin-left:auto; margin-right:auto; clip-path: circle();"'}
+#| echo: false
+knitr::include_graphics("https://avatars.githubusercontent.com/u/43506501?v=4")
+```
+:::
+
+:::{.bio-column-left}
+Holds a Bachelor's degree in Biomedicine (2022) and a Master's degree in Bioinformatics (2024), both from the Federal University of Rio Grande do Norte (UFRN). Currently, he is a PhD student in Bioinformatics at the Multiuser Bioinformatics Center of the Digital Metropolis Institute (BioME/IMD/UFRN). During his Master's, he worked with metagenomic (shotgun, 16S) and transcriptomic (scRNA-seq, RNA-seq, and microarray) data analysis. He has experience in sequencing data analysis, focusing on differential gene expression and protein-protein interaction networks in transcriptomics, as well as biodiversity and functional analyses in metagenomics. He is proficient in R and Python, with recent projects available on his GitHub profile: https://github.com/jvfe. Additionally, he develops and maintains bioinformatics workflows using tools such as Nextflow and Snakemake. His main interests include Systems Biology, Metagenomics, Network Analysis, Computational Reproducibility, and Open Knowledge. He participated in the Google Summer of Code 2021 as a Student Developer for the R Project for Statistical Computing, working on social network data analysis and the development of interactive dashboards. 
+
+:::
+:::
+
+:::{.column-body style="margin-top:-20px;"}
+```{r}
+#| echo: false
+
+tags$div(class = "row", style = "display: flex;",
+         
+create_button(
+  icon = "fab fa-github fa-xl",
+  url = "https://github.com/jvfe"
+),
+create_button(
+  icon = "fas fa-globe fa-xl",
+  url = "http://lattes.cnpq.br/5714602163308583"
+
+),
+create_button(
+  icon = "fab fa-linkedin-in fa-xl",
+  url = "https://www.linkedin.com/in/joao-v-cavalcante/"
+)
+)
+```
+:::
+
+

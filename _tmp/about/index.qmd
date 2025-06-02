@@ -28,6 +28,8 @@ source("../R/functions.R")
 
 # Meet the team
 
+## Lab members
+
 *Click on photos to view their articles and contributions*
 ```{r}
 #| echo: false
@@ -40,11 +42,50 @@ create_team_card(
   text = "Team Leader"
 ),
 create_team_card(
+  person_page = "isaac_medeiros/index.html",
+  img_src = "https://avatars.githubusercontent.com/u/127994907?v=4",
+  name = "Isaac Medeiros",
+  text = "Undergraduate"
+)
+)
+```
+
+## External collaborators
+*Click on photos to view their articles and contributions*
+```{r}
+#| echo: false
+
+tags$div(class = "row",# Create a row for 3 team-member cards
+         
+create_team_card(
   person_page = "julia_apolonio/index.html",
   img_src = "https://avatars.githubusercontent.com/u/19909582?v=4",
   name = "Julia Apolonio",
-  text = "Collaborator\nMsc candidate"
+  text = "Msc candidate"
+),
+create_team_card(
+  person_page = "joao_cav/index.html",
+  img_src = "https://avatars.githubusercontent.com/u/43506501?v=4",
+  name = "João Cavalcante",
+  text = "PhD candidate"
 )
 )
+
+tags$div(class = "row",# Create a row for 3 team-member cards
+         
+create_team_card(
+  person_page = "gleison_medeiros/index.html",
+  img_src = "https://avatars.githubusercontent.com/u/71445184?v=4",
+  name = "Gleison Medeiros",
+  text = "Msc candidate"
+),
+create_team_card(
+  person_page = "laura_shimohara/index.html",
+  img_src = "https://avatars.githubusercontent.com/u/157064283?v=4",
+  name = "Laura Shimohara",
+  text = "Msc candidate"
+)
+)
+
 ```
 
