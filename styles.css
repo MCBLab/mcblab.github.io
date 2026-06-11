@@ -1,0 +1,153 @@
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  src: url("fonts/Atkinson-Hyperlegible-Regular-102a.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  src: url("fonts/Atkinson-Hyperlegible-Bold-102a.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.about-entity .about-image {
+  background: #f8f5f0;
+  object-fit: contain;
+  padding: 1rem;
+}
+
+.lead {
+  font-size: 1.2rem;
+  line-height: 1.65;
+}
+
+.focus-grid,
+.people-grid {
+  display: grid;
+  gap: 1.25rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.focus-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.people-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.focus-card,
+.person-card,
+.publication {
+  background: rgba(248, 245, 240, 0.78);
+  border: 1px solid rgba(142, 140, 132, 0.35);
+  border-radius: 0.5rem;
+}
+
+.focus-card {
+  padding: 1.25rem;
+}
+
+.focus-card h3,
+.person-card h2 {
+  margin-top: 0;
+}
+
+.focus-card p,
+.person-card p,
+.publication p {
+  margin-bottom: 0;
+}
+
+.person-card {
+  display: grid;
+  grid-template-columns: 112px 1fr;
+  gap: 1.25rem;
+  padding: 1.25rem;
+}
+
+.person-card img {
+  width: 112px;
+  height: 112px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: #fff;
+}
+
+.person-role {
+  color: #66645e;
+  font-weight: 700;
+  margin-top: -0.35rem;
+}
+
+.person-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  margin-top: 0.85rem;
+}
+
+.person-links a {
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.person-links a:hover {
+  text-decoration: underline;
+}
+
+.profile-photo {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.publication {
+  padding: 1.25rem 1.4rem;
+  margin-bottom: 1rem;
+}
+
+.publication h2 {
+  font-size: 1.25rem;
+  margin: 0 0 0.45rem;
+}
+
+.publication-meta {
+  color: #5f5d58;
+}
+
+.eyebrow {
+  color: #5f5d58;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+@media (max-width: 800px) {
+  .focus-grid,
+  .people-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .person-card {
+    grid-template-columns: 80px 1fr;
+    gap: 1rem;
+  }
+
+  .person-card img {
+    width: 80px;
+    height: 80px;
+  }
+}

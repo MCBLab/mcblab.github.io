@@ -1,0 +1,24 @@
+---
+title: "Leonardo Queiroz"
+image: https://avatars.githubusercontent.com/u/123407162?v=4
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      href: https://github.com/leoshow21
+    - text: Lattes
+      icon: globe
+      href: http://lattes.cnpq.br/3940475451850915
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/leogabri21/
+---
+
+::: {.column-page}
+
+## Bio
+
+Leonardo is an MSc candidate at UFRN with a background in Biomedical Sciences. His interests include rare genetic diseases, bioinformatics, and molecular biology.
+
+:::

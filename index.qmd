@@ -1,0 +1,53 @@
+---
+title: "Marques-Coelho Bioinformatics Lab"
+image: images/lab-logo.png
+about:
+  template: trestles
+  links:
+    - text: People
+      icon: people
+      href: people/index.qmd
+    - text: Research
+      icon: journal-text
+      href: research/index.qmd
+    - text: GitHub
+      icon: github
+      href: https://github.com/MCBLab
+---
+
+::: {.column-page}
+
+## Computational biology, made collaborative
+
+Welcome to the Marques-Coelho Bioinformatics Lab, a resource hub for our research, teaching, software, and scientific collaborations in molecular and computational biology.
+
+Our work connects biological questions with reproducible data analysis. We develop and maintain workflows, analyze high-throughput sequencing data, and work with researchers to turn complex datasets into useful evidence.
+
+## What we do
+
+::: {.focus-grid}
+::: {.focus-card}
+### Data analysis
+
+Reproducible analysis and reporting for genomics, transcriptomics, metagenomics, and other omics projects.
+:::
+
+::: {.focus-card}
+### Scientific workflows
+
+Development and maintenance of portable pipelines with tools including Nextflow and Snakemake.
+:::
+
+::: {.focus-card}
+### Open collaboration
+
+Research partnerships, training, and engagement with the wider bioinformatics community.
+:::
+:::
+
+## Explore the lab
+
+Meet our [lab members and collaborators](people/index.qmd), or browse the lab's [scientific publications](research/index.qmd).
+
+:::
+

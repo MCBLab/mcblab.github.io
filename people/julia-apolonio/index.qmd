@@ -1,0 +1,24 @@
+---
+title: "Julia Apolonio de Amorim"
+image: https://avatars.githubusercontent.com/u/19909582?v=4
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      href: https://github.com/juliaapolonio
+    - text: Lattes
+      icon: globe
+      href: http://lattes.cnpq.br/0708127738630783
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/juliaapolonio/
+---
+
+::: {.column-page}
+
+## Bio
+
+Julia holds a degree in Biomedical Engineering from the Federal University of Rio Grande do Norte (2021). She is a PhD candidate working on projects involving psychiatric disorders, genome-wide association studies, multi-omics analysis, and pipeline development.
+
+:::

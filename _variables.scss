@@ -1,0 +1,37 @@
+// Adapted from the Sandstone theme used by mm218.dev.
+/*-- scss:defaults --*/
+
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #f8f5f0 !default;
+$gray-300: #dfd7ca !default;
+$gray-400: #ced4da !default;
+$gray-500: #98978b !default;
+$gray-600: #8e8c84 !default;
+$gray-700: #495057 !default;
+$gray-800: #3e3f3a !default;
+$gray-900: #212529 !default;
+$black:    #000 !default;
+
+$blue:    #325d88 !default;
+$orange:  #d96c3f !default;
+$green:   #648b4a !default;
+$yellow:  #fcbd27 !default;
+
+$primary:       $blue !default;
+$secondary:     $gray-600 !default;
+$success:       $green !default;
+$warning:       $yellow !default;
+$danger:        $orange !default;
+$light:         $gray-200 !default;
+$dark:          $gray-800 !default;
+
+$body-bg:                    $gray-300 !default;
+$body-color:                 #111 !default;
+$link-color:                 $blue !default;
+$font-family-sans-serif:     "Atkinson Hyperlegible", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif !default;
+$headings-font-weight:       500 !default;
+$navbar-light-hover-color:   $black !default;
+$navbar-light-active-color:  $black !default;
+$card-border-color:          rgba($gray-400, .8) !default;
+$card-cap-bg:                rgba($gray-200, .45) !default;

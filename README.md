@@ -1,10 +1,19 @@
-# ALA Labs <a href="https://labs.ala.org.au/"><img class = "rounded" src="twitter-card-preview_frog-small.png" align="right" style="margin: 20px 10px 20px 10px;" alt="" height="200"/></a>
+# MCB Lab website
 
-[https://labs.ala.org.au/](https://labs.ala.org.au/)
+This repository contains the Quarto website for the Marques-Coelho Bioinformatics Lab.
 
-This is the GitHub repository for the ALA Labs website. ALA Labs provides resources and articles from the Atlas of Living Australia's Science and Decision Support team. On the website, you can find:
+## Local preview
 
-  *  **About**: Code, articles, analyses and visualisations that will hopefully help you in your own work
-  *  **Research**: Highlighted summaries of scientific research that has used data from the Atlas of Living Australia
+```bash
+quarto preview
+```
 
-We are happy to take suggestions for future posts or how-to articles. To send a suggestion, please email support@ala.org.au.
+## Render
+
+```bash
+quarto render
+```
+
+The site source is at the repository root. Content from the previous `_tmp` site has been migrated into the `people/` and `research/` sections.
+
+Pushes to `main` are rendered and deployed by the GitHub Pages workflow in `.github/workflows/publish.yml`. The repository's Pages source must be set to **GitHub Actions**.

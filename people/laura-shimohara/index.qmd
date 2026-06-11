@@ -1,0 +1,21 @@
+---
+title: "Laura Shimohara"
+image: https://avatars.githubusercontent.com/u/157064283?v=4
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      href: https://github.com/aylahin
+    - text: Lattes
+      icon: globe
+      href: http://lattes.cnpq.br/5307797438965920
+---
+
+::: {.column-page}
+
+## Bio
+
+Laura holds a bachelor's degree in Biotechnology from the Federal University of Paraíba (2023) and is a PhD candidate. Her work focuses on bioinformatics and transcriptomics, with an emphasis on preprocessing long-read sequencing data and the *in silico* analysis of long non-coding RNAs.
+
+:::

@@ -1,0 +1,128 @@
+---
+title: "People"
+subtitle: "Lab members and external collaborators"
+---
+
+::: {.column-page}
+
+## Lab members
+
+::: {.people-grid}
+::: {.person-card}
+![](../images/diego-coelho.jpg){alt="Diego Marques Coelho"}
+
+::: {}
+## [Diego Marques Coelho](diego-coelho/index.qmd)
+
+<p class="person-role">Team leader</p>
+
+Bioinformatician working across transcriptomics, neurobiology, workflow development, and biotechnology.
+
+<p class="person-links"><a href="https://github.com/diegomscoelho">GitHub</a><a href="http://lattes.cnpq.br/2074007934768692">Lattes</a><a href="https://www.linkedin.com/in/diegomscoelho/">LinkedIn</a></p>
+:::
+:::
+
+::: {.person-card}
+![](https://avatars.githubusercontent.com/u/127994907?v=4){alt="Isaac Medeiros"}
+
+::: {}
+## [Isaac Medeiros](isaac-medeiros/index.qmd)
+
+<p class="person-role">Undergraduate researcher</p>
+
+Information Technology student and ecologist interested in software engineering for social and environmental challenges.
+
+<p class="person-links"><a href="https://github.com/MedeirosIsaac">GitHub</a><a href="http://lattes.cnpq.br/8138760654810810/">Lattes</a></p>
+:::
+:::
+
+::: {.person-card}
+![](https://avatars.githubusercontent.com/u/92835522?v=4){alt="Beatriz Morais"}
+
+::: {}
+## [Beatriz Morais](beatriz-morais/index.qmd)
+
+<p class="person-role">Undergraduate researcher</p>
+
+Undergraduate student developing her programming and collaborative software skills with the MCB Lab.
+
+<p class="person-links"><a href="https://github.com/beatrizmorais02">GitHub</a><a href="http://lattes.cnpq.br/3622929798150971">Lattes</a></p>
+:::
+:::
+
+::: {.person-card}
+![](https://avatars.githubusercontent.com/u/123407162?v=4){alt="Leonardo Queiroz"}
+
+::: {}
+## [Leonardo Queiroz](leonardo-queiroz/index.qmd)
+
+<p class="person-role">MSc candidate</p>
+
+MSc candidate interested in rare genetic diseases, bioinformatics, and molecular biology.
+
+<p class="person-links"><a href="https://github.com/leoshow21">GitHub</a><a href="http://lattes.cnpq.br/3940475451850915">Lattes</a><a href="https://www.linkedin.com/in/leogabri21/">LinkedIn</a></p>
+:::
+:::
+:::
+
+## External collaborators
+
+::: {.people-grid}
+::: {.person-card}
+![](https://avatars.githubusercontent.com/u/19909582?v=4){alt="Julia Apolonio de Amorim"}
+
+::: {}
+## [Julia Apolonio de Amorim](julia-apolonio/index.qmd)
+
+<p class="person-role">PhD candidate</p>
+
+PhD candidate working with psychiatric disorders, GWAS, multi-omics analysis, and pipeline development.
+
+<p class="person-links"><a href="https://github.com/juliaapolonio">GitHub</a><a href="http://lattes.cnpq.br/0708127738630783">Lattes</a><a href="https://www.linkedin.com/in/juliaapolonio/">LinkedIn</a></p>
+:::
+:::
+
+::: {.person-card}
+![](https://avatars.githubusercontent.com/u/43506501?v=4){alt="João Cavalcante"}
+
+::: {}
+## [João Cavalcante](joao-cavalcante/index.qmd)
+
+<p class="person-role">PhD candidate</p>
+
+Bioinformatician focused on systems biology, metagenomics, networks, and reproducible scientific workflows.
+
+<p class="person-links"><a href="https://github.com/jvfe">GitHub</a><a href="http://lattes.cnpq.br/5714602163308583">Lattes</a><a href="https://www.linkedin.com/in/joao-v-cavalcante/">LinkedIn</a></p>
+:::
+:::
+
+::: {.person-card}
+![](https://avatars.githubusercontent.com/u/71445184?v=4){alt="Gleison Medeiros"}
+
+::: {}
+## [Gleison Medeiros](gleison-medeiros/index.qmd)
+
+<p class="person-role">MSc candidate</p>
+
+Biomedical scientist studying omics data, evolutionary systems, and protein interaction networks.
+
+<p class="person-links"><a href="https://github.com/gleisonm">GitHub</a><a href="http://lattes.cnpq.br/3943323611794371">Lattes</a><a href="https://www.linkedin.com/in/gleison-azevedo-504380353/">LinkedIn</a></p>
+:::
+:::
+
+::: {.person-card}
+![](https://avatars.githubusercontent.com/u/157064283?v=4){alt="Laura Shimohara"}
+
+::: {}
+## [Laura Shimohara](laura-shimohara/index.qmd)
+
+<p class="person-role">PhD candidate</p>
+
+PhD candidate working in transcriptomics, long-read sequencing, and long non-coding RNA analysis.
+
+<p class="person-links"><a href="https://github.com/aylahin">GitHub</a><a href="http://lattes.cnpq.br/5307797438965920">Lattes</a></p>
+:::
+:::
+:::
+
+:::

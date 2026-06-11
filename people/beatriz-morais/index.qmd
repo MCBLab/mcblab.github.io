@@ -1,0 +1,21 @@
+---
+title: "Beatriz Morais"
+image: https://avatars.githubusercontent.com/u/92835522?v=4
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      href: https://github.com/beatrizmorais02
+    - text: Lattes
+      icon: globe
+      href: http://lattes.cnpq.br/3622929798150971
+---
+
+::: {.column-page}
+
+## Bio
+
+Beatriz is an undergraduate researcher developing her programming and collaborative software skills with the MCB Lab.
+
+:::

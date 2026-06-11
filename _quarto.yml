@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - people/**/*.qmd
+    - research/**/*.qmd
+
+website:
+  title: "MCB Lab"
+  site-url: https://mcblab.github.io
+  description: "Marques-Coelho Bioinformatics Lab"
+  open-graph:
+    locale: en_US
+    image: images/lab-logo.png
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "People"
+        href: people/index.qmd
+      - text: "Research"
+        href: research/index.qmd
+      - icon: github
+        href: https://github.com/MCBLab
+        aria-label: MCB Lab on GitHub
+  page-footer:
+    left: "© MCB Lab. Built with Quarto."
+    right:
+      - icon: github
+        href: https://github.com/MCBLab
+        aria-label: MCB Lab on GitHub
+
+format:
+  html:
+    theme: [sandstone, _variables.scss]
+    css: styles.css
+    toc: false
+    smooth-scroll: true

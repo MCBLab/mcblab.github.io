@@ -1,0 +1,27 @@
+---
+title: "Diego Marques Coelho"
+image: ../../images/diego-coelho.jpg
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      href: https://github.com/diegomscoelho
+    - text: Lattes
+      icon: globe
+      href: http://lattes.cnpq.br/2074007934768692
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/diegomscoelho/
+---
+
+::: {.column-page}
+
+## Bio
+
+Diego holds a degree in Biological Sciences from the State University of Rio de Janeiro (2013), a master's degree in Biological Sciences (Biophysics) from the Federal University of Rio de Janeiro (2016), and a PhD in Bioinformatics from the Federal University of Rio Grande do Norte.
+
+His recent academic work has used single-cell RNA sequencing and bulk RNA sequencing to investigate developmental neurobiology and the neuropathology of Alzheimer's disease. He has worked as a bioinformatics analyst at Mendelics and as a bioinformatics developer at EMBL-EBI. He currently works at Ryvu Therapeutics and collaborates with researchers and biotechnology companies.
+
+:::
+

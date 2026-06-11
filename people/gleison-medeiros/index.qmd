@@ -1,0 +1,27 @@
+---
+title: "Gleison Medeiros"
+image: https://avatars.githubusercontent.com/u/71445184?v=4
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      href: https://github.com/gleisonm
+    - text: Lattes
+      icon: globe
+      href: http://lattes.cnpq.br/3943323611794371
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/gleison-azevedo-504380353/
+---
+
+::: {.column-page}
+
+## Bio
+
+Gleison is a master's student in Bioinformatics at the Federal University of Rio Grande do Norte and holds a degree in Biomedicine from the same institution. His work focuses on omics data analysis, including single-cell data, RNA sequencing, metagenomics, and the evolution of biological systems.
+
+Since 2021, he has been part of the BioME team, applying computational approaches to investigate evolutionary patterns and protein interaction networks.
+
+:::
+

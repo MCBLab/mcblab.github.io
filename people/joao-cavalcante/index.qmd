@@ -1,0 +1,27 @@
+---
+title: "João Cavalcante"
+image: https://avatars.githubusercontent.com/u/43506501?v=4
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      href: https://github.com/jvfe
+    - text: Lattes
+      icon: globe
+      href: http://lattes.cnpq.br/5714602163308583
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/joao-v-cavalcante/
+---
+
+::: {.column-page}
+
+## Bio
+
+João holds bachelor's and master's degrees in Biomedicine and Bioinformatics from the Federal University of Rio Grande do Norte. He is a PhD student in Bioinformatics at BioME/IMD/UFRN.
+
+His experience includes shotgun and 16S metagenomics; single-cell and bulk RNA sequencing; microarray analysis; differential gene expression; protein interaction networks; and biodiversity and functional analysis. He develops reproducible bioinformatics workflows using Nextflow and Snakemake and is interested in systems biology, metagenomics, network analysis, computational reproducibility, and open knowledge.
+
+:::
+

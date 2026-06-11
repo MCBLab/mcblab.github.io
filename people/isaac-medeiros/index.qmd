@@ -1,0 +1,22 @@
+---
+title: "Isaac Medeiros"
+image: https://avatars.githubusercontent.com/u/127994907?v=4
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      href: https://github.com/MedeirosIsaac
+    - text: Lattes
+      icon: globe
+      href: http://lattes.cnpq.br/8138760654810810/
+---
+
+::: {.column-page}
+
+## Bio
+
+Isaac is an undergraduate student in Information Technology and holds a degree in Ecology from the Federal University of Rio Grande do Norte. He is developing software engineering skills with an emphasis on technological tools that help address societal challenges, bringing a social and environmental perspective from his training in ecology.
+
+:::
+
