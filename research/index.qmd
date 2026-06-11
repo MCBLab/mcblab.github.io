@@ -1,17 +1,33 @@
 ---
 title: "Research"
-subtitle: "Publications from MCB Lab members"
+subtitle: "Publications and scholarly outputs from MCB Lab members"
 ---
 
 ::: {.column-page}
 
+This list includes publications from our lab.
+
 <p class="eyebrow">2025</p>
+
+::: {.publication}
+## [Maturation of the glymphatic system confers innate resistance of the brain to Zika virus infection](https://doi.org/10.1101/2025.10.26.684625)
+
+J. G. Doerl, E. K. C. Chaves, V. A. B. dos Santos, B. L. M. Marcelino, D. M. Coelho, et al.  
+<span class="publication-meta">*bioRxiv*, 2025 · Preprint · DOI: 10.1101/2025.10.26.684625</span>
+:::
+
+::: {.publication}
+## [OrthoGuide: A database for rooting inference of orthologous genes](https://doi.org/10.1101/2025.10.20.683520)
+
+J. V. F. Cavalcante, G. M. de Azevedo, D. Marques-Coelho, D. O. Imparato, et al.  
+<span class="publication-meta">*bioRxiv*, 2025 · Preprint · DOI: 10.1101/2025.10.20.683520</span>
+:::
 
 ::: {.publication}
 ## [Causeway: a pipeline for genome-wide effector gene screening with Mendelian Randomization and colocalization](https://doi.org/10.1093/bioadv/vbaf110)
 
-Julia Apolonio  
-<span class="publication-meta">*Bioinformatics Advances*, 2025 · DOI: 10.1093/bioadv/vbaf110</span>
+J. A. de Amorim, J. V. F. Cavalcante, D. Marques-Coelho, R. J. S. Dalmolin, et al.  
+<span class="publication-meta">*Bioinformatics Advances* 5(1), 2025 · DOI: 10.1093/bioadv/vbaf110</span>
 :::
 
 <p class="eyebrow">2021</p>
@@ -19,9 +35,15 @@ Julia Apolonio
 ::: {.publication}
 ## [Differential transcript usage unravels gene expression alterations in Alzheimer's disease human brains](https://doi.org/10.1038/s41514-020-00052-5)
 
-Diego Marques-Coelho  
-<span class="publication-meta">*npj Aging and Mechanisms of Disease*, 2021 · DOI: 10.1038/s41514-020-00052-5</span>
+D. Marques-Coelho, L. C. C. Iohan, A. R. Melo de Farias, A. Flaig, J. C. Lambert, et al.  
+<span class="publication-meta">*npj Aging and Mechanisms of Disease* 7, 2, 2021 · DOI: 10.1038/s41514-020-00052-5</span>
+:::
+
+::: {.publication}
+## [Differential expression levels of Sox9 in early neocortical radial glial cells regulate the decision between stem cell maintenance and differentiation](https://doi.org/10.1523/JNEUROSCI.2905-20.2021)
+
+J. Fabra-Beser, J. Alves Medeiros de Araujo, D. Marques-Coelho, L. A. Goff, et al.  
+<span class="publication-meta">*The Journal of Neuroscience* 41(33), 6969-6986, 2021 · DOI: 10.1523/JNEUROSCI.2905-20.2021</span>
 :::
 
 :::
-
